@@ -1,0 +1,17 @@
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\bin\Debug\net5.0\Imobi.Business.deps.json
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\bin\Debug\net5.0\Imobi.Business.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\bin\Debug\net5.0\ref\Imobi.Business.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\bin\Debug\net5.0\Imobi.Business.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\bin\Debug\net5.0\Imobi.Data.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\bin\Debug\net5.0\Imobi.Entity.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\bin\Debug\net5.0\Imobi.Data.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\bin\Debug\net5.0\Imobi.Entity.pdb
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\obj\Debug\net5.0\Imobi.Business.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\obj\Debug\net5.0\Imobi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\obj\Debug\net5.0\Imobi.Business.AssemblyInfoInputs.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\obj\Debug\net5.0\Imobi.Business.AssemblyInfo.cs
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\obj\Debug\net5.0\Imobi.Business.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\obj\Debug\net5.0\Imobi.Business.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\obj\Debug\net5.0\Imobi.Business.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\obj\Debug\net5.0\ref\Imobi.Business.dll
+C:\Users\redbu\OneDrive\Área de Trabalho\imob_\Imobi\Imobi.Business\obj\Debug\net5.0\Imobi.Business.pdb
